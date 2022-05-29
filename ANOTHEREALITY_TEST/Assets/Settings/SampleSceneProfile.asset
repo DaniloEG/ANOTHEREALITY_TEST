@@ -134,6 +134,7 @@ MonoBehaviour:
   - {fileID: 258394651029837305}
   - {fileID: 4419181400571202166}
   - {fileID: -3661659411719017814}
+  - {fileID: 8214437694772794339}
 --- !u!114 &258394651029837305
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -219,3 +220,22 @@ MonoBehaviour:
   intensity:
     m_OverrideState: 1
     m_Value: 0.106
+--- !u!114 &8214437694772794339
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e021b4c809a781e468c2988c016ebbea, type: 3}
+  m_Name: ColorLookup
+  m_EditorClassIdentifier: 
+  active: 1
+  texture:
+    m_OverrideState: 1
+    m_Value: {fileID: 0}
+  contribution:
+    m_OverrideState: 1
+    m_Value: 1
